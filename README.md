@@ -5,7 +5,7 @@ Hello! I'm an enthusiastic recent graduate in Information and Communication Tech
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [oyshikf@gmail.com](mailto:oyshikf@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Backend Development
 
 ### Skills
 
